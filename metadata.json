@@ -1,0 +1,6 @@
+{
+  "name": "Domes",
+  "description": "Create, edit, and explore beautiful color palettes with interactive Dome maps, list views, custom color sliders, and categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
